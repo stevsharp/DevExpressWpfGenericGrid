@@ -31,3 +31,7 @@ GenericGridControl Usage
     DbPath="app.db"
     EntityType="{x:Type local:Person}"
     AutoLoad="True"/>
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
