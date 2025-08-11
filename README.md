@@ -23,3 +23,11 @@ It auto-generates columns and loads data directly from the database.
 ```bash
 git clone https://github.com/<your-username>/WpfGenericDevExpressGrid-EFCore.git
 cd WpfGenericDevExpressGrid-EFCore
+```
+How It Works
+GenericGridControl Usage
+
+<ctrls:GenericGridControl
+    DbPath="app.db"
+    EntityType="{x:Type local:Person}"
+    AutoLoad="True"/>
