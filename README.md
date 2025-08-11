@@ -13,7 +13,7 @@ It auto-generates columns and loads data directly from the database.
 - **Optional AutoLoad** – loads on control initialization
 
 ## Requirements
-- [.NET 6.0+ or .NET Framework with EF Core](https://dotnet.microsoft.com/)
+- [.NET 9.0+ or .NET Framework with EF Core](https://dotnet.microsoft.com/)
 - [DevExpress WPF Components](https://www.devexpress.com/products/net/controls/wpf/)
 - SQLite
 
